@@ -1,0 +1,1 @@
+# Smart-India-Hackathon-UI. It's an basic frontend page for a project of smart india hackathon, I have participated in that with my friends and We have made a project of flood detection system in which this is the fronted part of our application
